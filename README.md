@@ -1,6 +1,6 @@
 # Léo Viguier
 
-**`Computer Science Engineer Specialised in Data Science and Data Engineering`**
+**`Computer Science Engineer Specialised in Data Science`**
 
 I am a recent graduate from a computer science engineering school in France, with a focus on software engineering, data science, and artificial intelligence. My primary areas of interest are data and AI, but I also enjoy working on profitable projects for friends and family, often involving web scraping and web automation, fields in which I have solid knowledge base. I predominantly work with Python and frequently use SQL for data storage and retrieval, as most of my projects involve working with large amounts of data.
 
