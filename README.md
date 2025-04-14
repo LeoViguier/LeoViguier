@@ -24,12 +24,18 @@ I have several projects on my GitHub profile:
 - I am also constantly working on two business projects, the first one of which is an Amazon web scraping program hunting for expensive products at a cheap price, and the other is a web automation project. Both involve using [`undetected-chromedriver`](https://github.com/ultrafunkamsterdam/undetected-chromedriver) and are written in Python, with some SQL for the data storage.
 
 
+## 🚀 Ongoing projects
+Since I am always working on many projects at the same time, I have a lot of ongoing projects. Here are some of them:
+- **`PodcastsTranscribe`** is a project meant to transcribe podcasts and make them searchable. It uses openAI-whisper model locally to transcribe the audio and pyannote to identify the speakers. The plan is to also include AI features like summarizing and translation. ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Pytorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=HuggingFace)
+- **`AnkiDisplayer`** Anki is great way to learn, by leveraging spaced repetition. However, I sometimes find it hard to find the time to study, so instead I am building a program that loads Anki lesson and permanently displays it on the top left of my computer, changing every 5 minutes. ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+- **`HumanTyper`** is a project meant to simulate human typing, down to human made errors and my keyboards bugs. It uses the `pynput` library to simulate key presses and mouse movements, and is meant to be used for web automation in order to fool the anti-bot measures of websites, which I believe will get more and more sophisticated in the future. ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
 
 ## 🧰 Languages and Tools
 
 
 <img src="https://skillicons.dev/icons?i=vscode,github,git,python,pytorch,tensorflow,flask,docker,elasticsearch,kafka,opencv,postgresql,powershell,raspberrypi" />
 
+---
 
 <div align="center"> 
   <a href="mailto:leo.viguier@live.fr">
@@ -39,4 +45,3 @@ I have several projects on my GitHub profile:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
